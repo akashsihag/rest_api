@@ -1,6 +1,6 @@
-#################################################################################################################################
-Rest Api for E-Commerce with filters (productName, minPrice, maxPrice) using Flask
-#################################################################################################################################
+
+Rest Api for E-Commerce with filters (productName, minPrice, maxPrice) using Flask :
+
 
 1.) Make sure you have python and flask installed in your enviornment
 2.) Run app.py : python ${project.root}/rest_api/src/app.py 
